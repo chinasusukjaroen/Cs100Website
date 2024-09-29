@@ -1,5 +1,5 @@
  
- @font-face {
+@font-face {
     font-family: 'Pirate'; /* ตั้งชื่อฟอนต์ */
     src: url('resources/jack.ttf') format('truetype'); /* ชี้ไปยังไฟล์ฟอนต์ */
 }
@@ -215,7 +215,7 @@ nav ul li a:hover {
 
 .Home
 {
-    line-height: 10;
+    line-height: 7;
     font-size: 20px;
   font-weight: bold;
   font-family: 'Pirate';
@@ -240,6 +240,10 @@ nav ul li a:hover {
 
 
 }
+
+
+
+
 
 
 
